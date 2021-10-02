@@ -1,0 +1,137 @@
+/*!
+ * Dark Mode Switch v1.0.1 (https://github.com/coliff/dark-mode-switch)
+ * Copyright 2021 C.Oliff
+ * Licensed under MIT (https://github.com/coliff/dark-mode-switch/blob/main/LICENSE)
+ */
+
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #fff !important;
+}
+
+[data-theme="dark"] .bg-dark {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #222 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .navbar-brand  {
+  color:white !important;
+}
+
+[data-theme="dark"] .navbar-brand    {
+  color:white !important;
+}
+
+[data-theme="dark"] .navbar-light .navbar-nav .nav-link.active  {
+  color:white !important;
+}
+
+
+
+[data-theme="dark"] .navbar-expand-lg .navbar-nav .nav-link  {
+  color:white !important;
+  
+}
+
+[data-theme="dark"] .navbar-toggler {
+  color:white !important;
+  
+}
+
+[data-theme="dark"] .banner{
+  
+  background-image: linear-gradient(72deg, rgba(45,48,50,0.87718837535014) 15%, rgba(36,34,34,0.7063200280112045)), url('banner1.png') !important;
+}
+
+[data-theme="dark"] .navbar-nav {
+  background:transparent!important;
+  background-color: black !important;
+}
+
+[data-theme="dark"] #MobilePhotography {
+  background: black !important;
+}
+
+[data-theme="dark"] #designs  {
+  background: black !important;
+}
+
+
+
+[data-theme="dark"] .card  {
+  background: black !important;
+  border: 1px solid white !important;
+}
+
+[data-theme="dark"] .carousel-control-prev {
+  color:red !important;
+ 
+}
+
+[data-theme="dark"] .carousel-control-next {
+  color:red !important;
+ 
+}
+
+[data-theme="dark"] #instafeed-container {
+  background: black !important;
+ 
+}
+
+[data-theme="dark"] #about {
+  background: black !important;
+ 
+}
+
+
+[data-theme="dark"] #services {
+  background: black !important;
+ 
+}
+
+[data-theme="dark"] .email-no{
+ color:white !important;
+ 
+}
+
+[data-theme="dark"] .scrolled {
+ background: black!important;
+  
+ }
+
+ [data-theme="dark"] .name-style{
+  color:white !important;
+  
+ }
+
+ [data-theme="dark"] .emai{
+  color:white !important;
+  
+ }
+
+ [data-theme="dark"] .hobbies {
+  color:white !important;
+  
+ }
+
+
+ [data-theme="dark"] .hobbies2 {
+  color:white !important;
+  
+ }
+
+ [data-theme="dark"] .tech {
+  color:white !important;
+  
+ }
